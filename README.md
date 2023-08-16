@@ -1,1 +1,6 @@
 # IMAGE-FORGERY-DETECTION
+
+ABSTRACT 
+ 
+ 
+Image forgery detection is the process of identifying whether an image has been tampered with or not. With the increasing use of digital images in various fields such as forensics, medicine, and news, the need for efficient and reliable image forgery detection techniques has become crucial. Deep learning-based methods have been proposed for image forgery detection. These methods use convolutional neural networks (CNNs) to learn the features of the image and then use these features to classify the image as tampered or original. These deep learning-based methods have shown significant improvements in terms of accuracy and robustness compared to traditional methods. Image forgery detection is a crucial task that aims to identify the authenticity of an image and protect against the spread of false information. There are various traditional and deep learning-based methods that have been proposed to tackle this task, each with their own strengths and weaknesses. This project propose a Web application, that will tell us which image is real and which is fake. if an image is fake, it will also try to predict the region in the fake image which is tampered with.
